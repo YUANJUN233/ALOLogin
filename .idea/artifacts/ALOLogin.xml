@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ALOLogin">
+    <output-path>$PROJECT_DIR$/out/artifacts/ALOLogin</output-path>
+    <root id="archive" name="ALOLogin.jar">
+      <element id="module-output" name="ALOLogin" />
+    </root>
+  </artifact>
+</component>
