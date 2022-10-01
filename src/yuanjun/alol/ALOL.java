@@ -8,3 +8,4 @@ public class ALOL extends JavaPlugin {
         getLogger().info("Start Plugin");
     }
 }
+/* WTF I DONT WANNA HAVE SOMETHING COOL */
